@@ -17,11 +17,11 @@ Open to **remote freelance / part-time opportunities** in AI, data analysis, and
 ## 🚀 Projects
 
 ### 🫀 3D Myocardial Perfusion SPECT — Left Ventricle Segmentation
-> M.Sc. Thesis Project · 2025–present
+> Academic Project · 2025–present
 
 - Developed a **3D Attention U-Net** model for left ventricle segmentation from CZT-based SPECT images
 - Applied Transfer Learning, Focal Tversky Loss, and CLAHE preprocessing under limited data conditions
-- Achieved **81.84% Dice score** (validation) · **90.25% Dice** (best case)
+- Achieved **81.84% Dice score** (validation) 
 - Tools: `PyTorch` `3D Slicer` `Python` `NumPy`
 
 ---
